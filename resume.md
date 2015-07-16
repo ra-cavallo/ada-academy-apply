@@ -52,7 +52,7 @@ June 2007 - February 2009
 
 __Cornish College Library & Image Collection;__ Seattle, WA   
 April 2004 - May 2008   
-*Assisant*   
+*Assistant*   
 -Managed circulation desks and ensured circulation procedures run smoothly.   
 -Processed new books and slides for circulations.   
 -Researched and corrected inconsistencies in slide information, as well as researching and cataloging slides needed to be added to collection.   
