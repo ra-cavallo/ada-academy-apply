@@ -5,9 +5,8 @@ Seattle, WA 98122
 ra.cavallo@gmail.com   
 
 
-
-#### EDUCATION & ACCOLADES ####
 ===
+#### EDUCATION & ACCOLADES ####
 __Cornish College of the Arts; Seattle, WA__   
 *Graduated May 2008*   
 Bachelor of Fine Arts, focusing in Interior Design
@@ -24,9 +23,8 @@ __*The Stranger;*__ H(e)aven
 *May 21, 2008*   
 BFA Thesis reviewed and recommended
 
-
-#### WORK EXPERIENCE
 ===
+#### WORK EXPERIENCE
 __Palu LTD;__ Seattle, WA   
 April 2009 - September 2016   
 *Managing Associate*   
@@ -61,8 +59,7 @@ April 2004 - May 2008
 -Reconciled monthly spending reports and bank statements with records.   
 -Organized and maintained records, collections, and purchase orders.   
 
-
-#### SKILLS
 ===
+#### SKILLS
 *Developed proficiency with the following programs:*   
 AutoCAD, SketchUp, Illustrator, Photoshop, InDesign, FormZ, 3DS Max, FileMaker Pro, Drupal, QuickBooks, Microsoft Office Suite, Open Office Suite, Appleworks, Windows and Mac operating systems
